@@ -1,0 +1,25 @@
+---
+title: "Postdoc_timelines_gannt"
+author: "Julia Harenčár"
+format: html
+editor: visual
+---
+
+## Postdoc timelines - Gannt charts
+
+### 3-5 year timeline (SSF)
+
+Three to five year timeline for Stanford Science Fellows application.
+
+```{r}
+library(ganttrify)
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
